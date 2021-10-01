@@ -2,8 +2,8 @@
 - 🐞 Trabalho como Analista de Testes/QA
 - 🎓 Formado em Análise e Desenvolvimento de Sistemas
 - 🎓 Cursando Pós-graduação em Engenharia de Software
-- 🤖 Atualmente utilizo Robot Framework
-- 🐍 Estudando Python
+- 🤖 Atualmente utilizo [Robot Framework](https://robotframework.org/)
+- 🐍 Estudando [Python](https://www.python.org/)
 
 <div>
   <a href="https://github.com/paulosandim">
