@@ -1,8 +1,8 @@
 ## Olar! Sou Paulo Sandim, mas pode me chamar de Paulete 😄
-- 🐞 Sou Analista de Testes/QA
+- 🐞 Trabalho como Analista de Testes/QA
 - 🎓 Formado em Análise e Desenvolvimento de Sistemas
 - 🎓 Cursando Pós-graduação em Engenharia de Software
-- 🤖 Atualmente trabalho utilizando Robot Framework
+- 🤖 Atualmente utilizo Robot Framework
 - 🐍 Estudando Python
 
 <div>
