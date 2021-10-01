@@ -12,10 +12,10 @@ jobs:
     steps:
       # Snake Animation
       - uses: Platane/snk@master
-        id: snake-gif
+        id: snake-svg
         with:
           github_user_name: paulosandim
-          gif_out_path: dist/github-snake.gif
+          svg_out_path: dist/github-snake.svg
 
       - uses: crazy-max/ghaction-github-pages@v2.1.3
         with:
