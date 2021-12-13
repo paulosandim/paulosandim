@@ -1,5 +1,5 @@
 ## Olar! Sou Paulo Sandim, mas pode me chamar de Paulete 😄
-- 🐞 Senior Software Quality Engineer 
+- 🐞 Senior QA Analyst 
 - 🎓 Formado em Análise e Desenvolvimento de Sistemas
 - 🎓 Cursando Pós-graduação em Engenharia de Software
 - 🤖 Atualmente utilizo [Robot Framework](https://robotframework.org/)
