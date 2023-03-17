@@ -2,7 +2,7 @@
 - 🐞 Senior QA Engineer 
 - 🎓 Graduated in Systems Analysis and Development
 - 🎓 Specialized in Agile Project Management
-- 💻 Currently working with [Cypress](https://www.cypress.io/)
+- 💻 Currently working with [Cypress](https://www.cypress.io/) and [Jest](https://jestjs.io/pt-BR/)
 
 <div>
   <a href="https://github.com/paulosandim">
