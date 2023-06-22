@@ -1,10 +1,10 @@
-## Helo there! I'm Paulo Sandim 😄
+## Olá! Me chamo Paulo Sandim 😄
 - 🐞 Senior QA Engineer 
-- 🎓 Graduated in Systems Analysis and Development
-- 🎓 Specialized in Agile Project Management
-- 💻 Currently working with [Playwright](https://playwright.dev/) and [K6](https://k6.io/)
+- 🎓 Graduado em Análise e Desenvolvimento de Sistemas
+- 🎓 Especialização em Gestão Ágil de Projetos
+- 💻 Atualmente trabalhando com [Playwright](https://playwright.dev/) e [K6](https://k6.io/)
   
-## Experiences with stacks
+## Stacks
   <div style="display: inline_block"><br>
   <img align="center" alt="Paulo-Cypress" height="30" width="40" src="https://www.svgrepo.com/show/353630/cypress.svg">
   <img align="center" alt="Paulo-Playwright" height="30" width="40" src="https://playwright.dev/img/playwright-logo.svg">
