@@ -1,4 +1,4 @@
-## Olá! Me chamo Paulo Sandim 😄
+## Olá! 😄
 - 🐞 Senior QA Engineer 
 - 🎓 Graduado em Análise e Desenvolvimento de Sistemas
 - 🎓 Especialização em Gestão Ágil de Projetos
