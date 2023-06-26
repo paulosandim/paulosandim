@@ -2,7 +2,7 @@
 - 🐞 Senior QA Engineer 
 - 🎓 Graduado em Análise e Desenvolvimento de Sistemas
 - 🎓 Especialização em Gestão Ágil de Projetos
-- 💻 Atualmente trabalhando com [Playwright](https://playwright.dev/) e [K6](https://k6.io/)
+- 🎯 [LinkedIn](https://www.linkedin.com/in/paulo-sandim/)
   
 ## Stacks
   <div style="display: inline_block"><br>
