@@ -1,5 +1,5 @@
 ## Olá! 😄
-- 🐞 Senior QA Engineer 
+- 🐞 Senior QA Engineer | QA Lead
 - 🎓 Graduado em Análise e Desenvolvimento de Sistemas
 - 🎓 Especialização em Gestão Ágil de Projetos
   
